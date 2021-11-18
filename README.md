@@ -14,6 +14,7 @@
 ### 💻 Dependencies
 
 * Hãy import thư viện Selenium
+<a href='https://orteil.dashnet.org/cookieclicker//'>Link Chơi Game Cookies ở đây</a>
 
 
 ## 📫 Contributing to Cookies-Auto-Clicking-Bot
