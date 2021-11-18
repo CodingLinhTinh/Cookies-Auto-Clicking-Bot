@@ -48,3 +48,5 @@ This project is licensed under the ISC License.
 ⭐<a href="https://github.com/CodingLinhTinh/Node.js-blockchain-basic.git">BlockChain Basic with Node.js, TypeScript</a>
 
 ⭐<a href="https://github.com/CodingLinhTinh/Slim-Shopping-Cart.git">Slim-Shopping-Cart</a>
+
+⭐<a href="https://github.com/CodingLinhTinh/Instagram-Auto-Follow-Bot.git">Instagram-Auto-Follow-Bot</a>
