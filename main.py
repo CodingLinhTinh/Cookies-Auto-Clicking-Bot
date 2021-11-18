@@ -108,8 +108,8 @@ while True:
         driver.find_element(By.ID, to_purchase_id).click()
 
         
-        #Add another 5 seconds until the next check
-        timeout = time.time() + 5
+        #Add another 20 seconds until the next check
+        timeout = time.time() + 20
         
     #After 5 minutes stop the bot and check the cookies per second count.
     if time.time() > five_min:
