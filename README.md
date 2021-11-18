@@ -8,7 +8,7 @@
 
 ## Description
 >Một Auto-Clicking Bot đơn giản
->Tự động click vào cookie và mua đồ tự nâng cấp
+>Tự động click vào cookie và mua đồ tự nâng cấp trong thời gian tùy ý
 
 ## Getting Started
 ### 💻 Dependencies
