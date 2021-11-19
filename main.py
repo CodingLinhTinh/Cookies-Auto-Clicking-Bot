@@ -74,7 +74,7 @@ five_min = time.time() + 60*5# 5minutes
 while True:
     cookie.click()
 
-    #Every 5 seconds:
+    #Every 20 seconds:
     if time.time() > timeout:
         
         #Get all upgrade <span> tags
