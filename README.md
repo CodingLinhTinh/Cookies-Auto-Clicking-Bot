@@ -22,9 +22,9 @@
     Để kiểm tra đang dùng bản Chrome nào thì ở góc phải <b>Chrome</b>, bấm vào dấu <b>ba chấm</b> -> <b>Help</b> -> <b>About Google Chrome<b>
     
 * Sau đó import thư viện Selenium vào project
-  <code>
+  ```
       pip install selenium
-  </code>
+  ```
 
 ⭐<a href='https://orteil.dashnet.org/cookieclicker//'>Link Chơi Game Cookies ở đây</a>
 
