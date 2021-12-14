@@ -61,3 +61,5 @@ This project is licensed under the ISC License.
 ⭐<a href="https://github.com/CodingLinhTinh/Slim-Shopping-Cart.git">Slim-Shopping-Cart</a>
 
 ⭐<a href="https://github.com/CodingLinhTinh/Instagram-Auto-Follow-Bot.git">Instagram-Auto-Follow-Bot</a>
+    
+⭐<a href="https://github.com/CodingLinhTinh/Simple-Virtual-Calculator.git">Simple-Virtual-Calculator</a>
